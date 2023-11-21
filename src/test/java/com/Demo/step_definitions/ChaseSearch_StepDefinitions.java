@@ -35,7 +35,7 @@ public class ChaseSearch_StepDefinitions {
 
 
 
-        Assert.assertTrue(page.myCarLink.getText().equals(result));
+        Assert.assertTrue(page.myCarLink.getText().equals(resultt));
 
 
 
