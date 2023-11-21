@@ -21,6 +21,8 @@ public class ChaseSearchPage extends BasePage {
     public WebElement MyDog;
 
 
+    public static void app(){};
+
 
 
 
