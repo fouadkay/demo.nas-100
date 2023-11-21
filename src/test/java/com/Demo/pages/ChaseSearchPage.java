@@ -17,6 +17,9 @@ public class ChaseSearchPage extends BasePage {
     @FindBy(xpath = "//a[.='MyCar']")
     public WebElement myCarLink;
 
+    @FindBy(xpath = "//a[.='jay']")
+    public WebElement MyDog;
+
 
 
 
