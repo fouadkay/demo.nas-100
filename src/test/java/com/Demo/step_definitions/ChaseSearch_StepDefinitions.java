@@ -12,7 +12,7 @@ public class ChaseSearch_StepDefinitions {
 
     ChaseSearchPage page = new ChaseSearchPage();
 
-
+ChaseSearchPage p = new ChaseSearchPage();
 
     @Given("user is on the chase.com website")
     public void user_is_on_the_chase_com_website()  {
