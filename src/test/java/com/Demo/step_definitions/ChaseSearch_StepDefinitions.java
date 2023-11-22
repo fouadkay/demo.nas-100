@@ -27,7 +27,7 @@ ChaseSearchPage p = new ChaseSearchPage();
         page.searchBox.sendKeys(input);
         page.searchButtonOnSearchPage.click();
 
-
+        ChaseSearchPage p = new ChaseSearchPage();
     }
     @Then("user should see {string} under featured links")
     public void user_should_see_under_featured_links(String result) {
